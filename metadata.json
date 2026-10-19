@@ -1,0 +1,6 @@
+{
+  "name": "KhatamLite",
+  "description": "Recite the Holy Quran effortlessly one verse at a time with customizable pacing plans up to 5 years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
